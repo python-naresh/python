@@ -1,0 +1,10 @@
+re=" asdf aesrdf ewrt"
+print(re[2])
+print(re[2:5])
+print(re[2:6])
+print(re[0:3])
+print(len(re))
+print(re[-1])
+print(re[-2])
+print(re[-5:-2])
+print(re[-7:-1])
